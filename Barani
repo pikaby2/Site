@@ -12,7 +12,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mufl%C3%B3n.jpg/275px-Mufl%C3%B3n.jpg" width="500px" height="500px"/>
         </main>
         <footer>
-              <table style="background:lightblue;font-size:20px;border:1px solid black; border-collapse:collapse">
+              <table style="font-size:20px;border:1px solid black; border-collapse:collapse">
                   <tr style="border:1px solid black">
                       <td><b>Название</b></td>
                       <td><b>Описание</b></td>
